@@ -1,11 +1,31 @@
 body{
-  background-color: #324d75;
+  background-color: #634d3c;
 }
 .container{
   width: 1200px;
   height: 600px;
-  background-color: #326e75;
+  background-color: #63603c;
   border-radius: 10px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+p{
+  font-size: 20px;
+  text-align: center;
+  color:  #eaa169;
+}
+a{
+  text-decoration: none;
+}
+.btn:hover{
+  color: White;
+  font-size: 22px;
+  transition: 0.2s;
+
+}
+.morg{
+  display: block;
   margin-left: auto;
   margin-right: auto;
 }
